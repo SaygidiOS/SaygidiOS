@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaygidiOS
 - 👀 I’m interested in  Swift development
-- 🌱 I’m currently learning  самостостоятельно
+- 🌱 I’m currently learning  independently
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
